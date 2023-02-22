@@ -1,0 +1,98 @@
+*{
+	font-family: verdana, geneva, sans-serif;
+	font-size: 12px;
+	background:rgba(0,0,0,0);
+}
+#mark{
+	font-size: 250%;
+	color: black;
+	
+
+}
+
+#class menu {
+			color:blue;
+		    margin: 0;
+		    padding:0;
+}
+ 
+li {
+			color: blue;
+		    list-style: none; 
+		    margin: 10px;
+		    display: inline;
+}
+
+li a {
+		   	padding: 10px 15px; 
+		    background: rgba(208,4,60,255);			;
+		    text-decoration: none;
+		    color:#FFF;
+		    /* cantos arredondados */
+		    -webkit-border-radius:20px;
+		    -moz-border-radius:15px;
+		    border-radius:15px;
+		    position: relative;
+		    left: 300px;
+			top: 70px;
+}
+li a:hover {
+		    background:#dc595f;
+		    color: white; 
+		    border-color: #000;
+
+}
+
+h1{			height: 3em;
+			color: black;
+			font-size: 300%;
+			
+}
+h1 span{ 	color:black;
+			font-size: 100%;
+
+
+}
+
+p{
+			color: black;
+			font-size: 18px;
+}
+
+
+#conta{
+		
+		border-style: solid;
+  		border-color:#9aa49c;
+  		padding: 10px 25px;
+
+}
+
+div.img{
+			position: absolute;
+			left: 50px;
+			top: 25px;
+		
+			
+
+}
+
+div.loja{
+	position: absolute;
+	left: 30px;
+	top: 200px;
+}
+
+div.info{
+	position: absolute;
+	right: 100px;
+	top: 175px;
+	padding: 0px;
+	text-align: center;
+	
+}
+
+h1{
+	color: rgba(208,4,60,255);
+	font-size: 30px;
+}
