@@ -94,7 +94,7 @@ div.container{
 }
 
 a.botao{
-	padding: 10px 15px; 
+	padding: 8px 12px; 
 	background: rgba(208,4,60,255);			;
 	text-decoration: none;
 	text-align: center;
@@ -103,7 +103,7 @@ a.botao{
 	-webkit-border-radius:20px;
 	-moz-border-radius:15px;
 	border-radius:15px;
-	position: absolute;
+	position: relative;
 	left: 1px;
 	top: 80px;
 }
