@@ -103,10 +103,9 @@ a.botao{
 	-webkit-border-radius:20px;
 	-moz-border-radius:15px;
 	border-radius:15px;
-	position: relative;
+	position: absolute;
 	left: 1px;
 	top: 80px;
-	width: 20%;
 }
 
 .titulo{
